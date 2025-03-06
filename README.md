@@ -1,6 +1,3 @@
-# AR-Robotics
-Here's a well-structured **README.md** description for your **AR Robotics** website:  
-
 # AR Robotics Website  
 
 ## 📌 About the Project  
@@ -31,5 +28,3 @@ The **AR Robotics** website is a sleek and responsive web platform built using *
 - Implement **AR/VR features** to enhance user interaction.  
 
 ---
-
-Let me know if you want any modifications! 🚀
