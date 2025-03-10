@@ -25,6 +25,6 @@ The **AR Robotics** website is a sleek and responsive web platform built using *
 ## 🎯 Future Enhancements  
 - Add a **blog section** for tech updates and news.  
 - Integrate a **backend** for user authentication and database storage.  
-- Implement **AR/VR features** to enhance user interaction..
+- Implement **AR/VR features** to enhance user interaction.
 
 ---
