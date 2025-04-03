@@ -21,7 +21,6 @@ The **AR Robotics** website is a sleek and responsive web platform built using *
    git clone https://github.com/yourusername/AR-Robotics-Website.git
    ```
 2. Open the `index.html` file in a web browser.  
-
 ## 🎯 Future Enhancements  
 - Add a **blog section** for tech updates and news.  
 - Integrate a **backend** for user authentication and database storage.  
